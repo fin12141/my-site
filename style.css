@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header, main, footer{
+    width: 1728px;
+    margin: 0 auto;
+
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #3d8ebc;
+}
+header, footer{
+background-color: #012c53;
+width: 100%;
+}
+h1, h2, p, li{
+    color: white;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+section{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: #012c53;
+    color: white;
+}
+.rabota{
+    border-radius: 15px;
+    margin-left: 120px;
+}
+.about_me{
+    width: 500px;
+}
+.photka_1{
+    margin-left: 300px;
+    margin-top: 75px;
+    width: 515px;
+}
+li{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+ul {
+    list-style: none;
+}
+.verh{
+    margin-left: 1200px;
+    margin-top: -70px;
+}
+.logo{
+width: 60px;
+margin-left: 125px;
+margin-top: 12px;
+}
+header{
+    height: 82px;
+    position: relative;
+}
+footer{
+    margin: -82px auto 0;
+    position: relative;
+    height: 82px;
+}
+.roman{
+    font-size: 63px;
+}
+.fonted{
+    font-size: 36px;
+}
+.text{
+    font-size: 20px;
+}
+.podval{
+    font-size: 20px;
+    text-align: center;
+
+}
+.nachalo{
+    display: flex;
+}
+.uslug{
+    display: flex;
+}
+html, body{
+    height: 100%;
+}
+h1, h2, p, li{
+    color: white;
+}
